@@ -9,6 +9,10 @@ Differences:
 * Instead of polluting the core `JSON` object, it defines a completely separate function.
 * TypeScript type information is included.
 
+## Installation
+
+    npm install --save json-date-parser
+
 ## Usage
 
 ```ts
