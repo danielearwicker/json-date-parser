@@ -1,0 +1,18 @@
+{
+  "name": "json-date-parser",
+  "version": "1.0.0",
+  "description": "Minimal function suitable for passing to JSON.parse to revive common date-time strings into Date objects",
+  "main": "built/index.js",
+  "types": "built/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "keywords": [
+    "json",
+    "date",
+    "parser"
+  ],
+  "author": "Daniel Earwicker <dan@earwicker.com>",
+  "license": "MIT"
+}
